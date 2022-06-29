@@ -17,6 +17,10 @@ THEN the saved events persist
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 When you open planner todays date will appear
-When you open the planner you will see 8-5 business hours 
+
+When you open the planner you will see 8-5 business hours
+
 When you click a time block you can enter in text
+
 When you click save it will save your event 
+
